@@ -1,0 +1,17 @@
+# Compiled binaries
+bfs
+
+# Object files
+*.o
+*.obj
+
+# Compiled executables
+*.exe
+*.out
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
